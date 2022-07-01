@@ -17,7 +17,7 @@ Then, print the results to the command line and save them to your election_resul
 Software: Python 3.8.8, Visual Studio Code 
 Data: election_results.csv
 
-#Results
+# Results
 
 Election Results
 -------------------------
