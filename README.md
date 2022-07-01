@@ -1,6 +1,6 @@
-Analysis of the Election Audit
+## Analysis of the Election Audit
 
-## Overview of Election Audit 
+# Overview of Election Audit 
 This process is for carry out a new audit based on some new additional data that the election commission has provided. 
 We have to provide the following in this new audit:
 The voter turnout for each county
@@ -12,7 +12,8 @@ Working from this module’s election_results.csv file, use for loops and condit
 Determine winning vote count, winning percentage, and candidate.
 Then, print the results to the command line and save them to your election_results.txt file. This will allow us to determine the winner of the election. 
 
-#Resources
+# Resources
+
 Software: Python 3.8.8, Visual Studio Code 
 Data: election_results.csv
 
@@ -47,6 +48,6 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 -------------------------
 
-#Election-Audit Summary
+# Election-Audit Summary
 
 Given that the data has large information on this election process, the script can be modified and adapted to the needs of the election commission. It would depend what they would require, but if we wanted to know the election based on states turnout, another option can be to write who the losers are.  
